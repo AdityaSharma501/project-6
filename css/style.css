@@ -1,0 +1,68 @@
+.navbar-brand{
+    color: black;
+}
+.nav-link{
+    color: black;
+    opacity: 0.4;
+}
+h1{
+    color: blanchedalmond;
+}
+p{
+    color: blanchedalmond;
+}
+.badg-bgl{
+    background-color: rgb(235, 229, 217);
+    opacity: 0.9;
+    
+
+}
+header{
+    padding-bottom: 13rem !important;
+    padding-top: 10rem !important;
+    
+    
+    background-image: url('../images/mainbacj.png');
+    clip-path: polygon(100% 0%, 0% 0%, 0% 100%, 100% 88%);}
+.cla{
+    display:flex;
+}    
+@media only screen and (max-width: 600px)
+ {
+     
+     .container-fluid{
+        padding:1rem !important;
+    }
+
+}
+.head2{
+    color: #8d9cb9;
+    letter-spacing: 0.2rem;
+    padding: 1rem 14rem;
+  
+ }
+ .badge-bgl2{
+     color:rgb(158, 88, 238);
+     background-color: rgb(195, 178, 199);
+     
+ }
+ .myclass1{
+     
+     
+}
+.container-fluid{
+    padding:3rem;
+}
+.bgfl{
+    background-color: rgb(201, 201, 201);
+    clip-path: polygon(100% 0%, 0% 14%, 0% 100%, 100% 86%);
+    
+}
+.ima{
+    color:purple;
+    clip-path: circle(60%);
+    
+}
+.bgimg{
+    background-color: aqua;
+}
